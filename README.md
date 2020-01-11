@@ -1,1 +1,5 @@
 # AssetGrowthUS
+
+This repo examines the normalized growth of 3 primary individual financial assets: wages i.e. income, property, and stock indices. Data is collected from the federal reserve in St. Louis and from Yahoo Finance. More information about the data collection can be found at data/README_data.md
+
+For me, this project was a good way to explore a question that I was always curious about, namely, whether it is always worth it to invest in stocks and how wage growth compares to capital growth. It was also a good way to familiarize myself with [Bokeh](https://docs.bokeh.org/en/latest/) plotting for html and embedding Bokeh html plots inside html webpages. You can see a short writeup I did on the data at my [website](). In particular, [this webpage](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/) was very helpful for learning Bokeh!
